@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings (Russian).strings
+  LifeFrame
+
+  Created by Сергей Дятлов on 23.02.2024.
+  
+*/
+
+// MARK: - Главная страница с записями -
+
+"There are no notes today" = "Сегодня записей нет";
+"Dear diary," = "Дорогой дневник,";
+"Drafts" = "Черновик";
+
+// MARK: - Статистика -
+
+"Privacy mode" = "Режим приватности";
+"This will hide the recordings from prying eyes, for example, in public transport." = "Скроет записи от посторонних глаз, например, в вагоне метро.";
+
+"Login password" = "Пароль для входа";
+"Create a 4-digit password to enter the diary." = "Придумайте 4-х значный пароль для входа в дневник.";
+
+"Mood chart" = "График настроя";
+"Shows the general mood of your memories. It helps to track the level of emotions." = "Показывает общее настроение ваших воспоминаний. Это помогает отследить уровень эмоций.";
+
+"There is no data yet" = "Данных пока нет";
+"Top 10 words" = "Топ 10 слов";
+"Top Emoji" = "Топ Emoji";
+
+"Frequently used words statistics will help you better track your feelings and experiences." = "Статистика часто используемых Вами слов может помочь лучше отслеживать ваши чувства и переживания.";
+
+"Keep" = "Ведите";
+"diary" = "дневник";
+"every" = "каждый";
+"day" = "день";
+"find" = "узнавайте";
+"yourself" = "себя";
+"collect" = "лучше";
+"statistics" = "собирайте";
+"about" = "статистику";
+"yourself" = "о себе";
+
+// MARK: - Предупреждения и разрешения -
+
+"Microphone access" = "Доступ к микрофону";
+"Access to the photo library" = "Доступ к библиотеке фотографий";
+"Please grant access in the settings to continue" = "Пожалуйста, предоставьте доступ в настройках, чтобы продолжить";
+
+"Cancel" = "Отмена";
+"Settings" = "Настройки";
+
+"Flower of memories" = "Цветок воспоминаний";
+"Keep a diary every day and your flower will grow. Memory will improve. The mind will become sharper. Daily recordings strengthen the neurons of our brain and nourish the flower." = "Ведите дневник каждый день и ваш цветок будет расти. Память улучшаться. Ум станет острее. Ежедневные записи укрепляют нейроны нашего мозга и питают цветок.";
+"Got it" = "Запомню";
+
+"No longer editable" = "Уже нельзя изменить";
+"You have 24 hours to edit your memories. When the time is up, the editor is blocked. This helps preserve the original mood and essence of the memory." = "У Вас есть 24 часа на редактирование воспоминаний. Когда время вышло, редактор блокируется. Это помогает сохранить исходное настроение и суть воспоминаний.";
+"Well, so :(" = "Ну, вот :(";

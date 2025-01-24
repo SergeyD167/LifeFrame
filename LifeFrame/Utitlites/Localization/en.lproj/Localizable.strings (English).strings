@@ -1,0 +1,59 @@
+/* 
+  Localizable.strings (English).strings
+  LifeFrame
+
+  Created by Сергей Дятлов on 23.02.2024.
+  
+*/
+
+// MARK: - Главная страница с записями -
+
+"There are no notes today" = "There are no notes today";
+"Dear diary," = "Dear diary,";
+"Drafts" = "Drafts";
+
+// MARK: - Статистика -
+
+"Privacy mode" = "Privacy mode";
+"This will hide the recordings from prying eyes, for example, in public transport." = "This will hide the recordings from prying eyes, for example, in public transport.";
+
+"Login password" = "Login password";
+"Create a 4-digit password to enter the diary." = "Create a 4-digit password to enter the diary.";
+
+"Mood chart" = "Mood chart";
+"Shows the general mood of your memories. It helps to track the level of emotions." = "Shows the general mood of your memories. It helps to track the level of emotions.";
+
+"There is no data yet" = "There is no data yet";
+"Top 10 words" = "Top 10 words";
+"Top Emoji" = "Top Emoji";
+
+"Frequently used words statistics will help you better track your feelings and experiences." = "Frequently used words statistics will help you better track your feelings and experiences.";
+
+"Keep" = "Keep";
+"diary" = "diary";
+"every" = "every";
+"day" = "day";
+"find" = "find";
+"yourself" = "yourself";
+"collect" = "collect";
+"statistics" = "statistics";
+"about" = "about";
+"yourself" = "yourself";
+
+// MARK: - Предупреждения и разрешения -
+
+"Microphone access" = "Microphone access";
+"Access to the photo library" = "Access to the photo library";
+"Please grant access in the settings to continue" = "Please grant access in the settings to continue";
+
+"Cancel" = "Cancel";
+"Settings" = "Settings";
+
+"Flower of memories" = "Flower of memories";
+"Keep a diary every day and your flower will grow. Memory will improve. The mind will become sharper. Daily recordings strengthen the neurons of our brain and nourish the flower." = "Keep a diary every day and your flower will grow. Memory will improve. The mind will become sharper. Daily recordings strengthen the neurons of our brain and nourish the flower.";
+"Got it" = "Got it";
+
+"No longer editable" = "No longer editable";
+"You have 24 hours to edit your memories. When the time is up, the editor is blocked. This helps preserve the original mood and essence of the memory." = "You have 24 hours to edit your memories. When the time is up, the editor is blocked. This helps preserve the original mood and essence of the memory.";
+"Well, so :(" = "Well, so :(";
+
